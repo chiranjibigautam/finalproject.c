@@ -1,3 +1,5 @@
+// program about banking system that performs basic banking operations such as depositing, withdrawing, and checking account balances for two types of accounts: checking and savings.
+
 #include <stdio.h>
 
 // Structure to represent an account
